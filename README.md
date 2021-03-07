@@ -1,5 +1,4 @@
-## Project 1
-### Relationship between SoMe and Stocks (Sentiment analysis)
+## Project 1 - Relationship between sentiments in SoMe and the stock market 
 
 ### Research Question
 "Is it possible to use Reddit and Twitter data, to predict short term movement in price of highly discussed stocks on these platforms?"
