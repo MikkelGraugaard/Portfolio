@@ -1,10 +1,17 @@
 ## Project 1 - Relationship between sentiments in SoMe and the stock market 
 
-### Research Question
-"Is it possible to use Reddit and Twitter data, to predict short term movement in price of highly discussed stocks on these platforms?"
-
 ### Description
-We want to analyze whether we can predict short term movements in the price of stocks. We will do this by collecting data from the platforms Twitter and Reddit. We will retrieve data from tweets regarding certain stocks and posts/comments on subreddits involving investing, such as "WallStreetBets" and "Investing". We will perform sentiment analysis on the text in relation to the mentioning of the stocks, which we will then compare to the actual market valuations of those stocks, to predict whether the price goes up or down.
+Analyzeing whether stock movements can be predicted in the short term. We are ding this by collecting data from the platforms Twitter and Reddit. We retrieved data from tweets regarding certain stocks and posts/comments on subreddits involving investing, such as "WallStreetBets" and "Investing". By using natural language processing to determine the sentiment in relation to the specific stocks, and compareing this to the actual market valuations of these stocks, to predict whether the price goes up or down.
+
+**Including**
+  - Scraping Reddit and Twitter with API's
+  - Transforming unstructured data to structured
+  - Feature engineering with the use of natural language processing
+  - Predicting prices using, but not limited to
+    - Random Forest
+    - Extreme gradient boosting
+    - Support vector machines
+    - Logistic regression
 
 
 
