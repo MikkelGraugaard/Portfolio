@@ -1,5 +1,3 @@
-# Mikkel Graugaard Portfolio
-
 ## Project 1
 ### Relationship between SoMe and Stocks (Sentiment analysis)
 
