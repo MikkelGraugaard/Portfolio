@@ -6,7 +6,7 @@ Analyzing whether stock movements can be predicted in the short term. We are doi
 
 **Including**
   - Scraping Reddit and Twitter with API's
-  - Transforming unstructured data to structured
+  - Transforming half a million rows of unstructured data to structured
   - Feature engineering with the use of natural language processing
   - Classifying stock movements using, but not limited to:
     - Random Forest
