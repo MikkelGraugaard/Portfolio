@@ -1,5 +1,11 @@
-title: Mikkel Graugaard Portfolio
+title: Mikkel Graugaard's Portfolio
 github:
   repository_url: https://github.com/MikkelGraugaard
+  
+ social-network-links:
+  email: "Mikkel21-97@hotmail.com"
+  #  linkedin: name
+  #  medium: yourname
+  
 theme: jekyll-theme-cayman
 
