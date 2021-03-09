@@ -24,11 +24,38 @@ Analyzing whether stock movements can be predicted in the short term. We are doi
 ## Project 2 - Work in progress...
 
 
+
 # Work Projects
 
+## Project 3 - Visualizing business KPI's in Power BI
+
+**Including**
+- Creating business rules to make KPI's
+- Using VBA coding to create fucntions for automation of KPI calculations
+- Creating KPI's for reporting
+- Roughly handling and cleaning data sets of 30.000 rows
+- Visualizing the data for reporting using Power BI
+
+### Description
+
+
+
+
+## Project 4 - Automating cost allocation of invoices
+
+**Including**
+
+
+### Description
 
 
 
 # Free time Projects
 
+## Project 5
 
+
+**Including**
+
+
+### Description
