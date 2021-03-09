@@ -2,7 +2,7 @@
 
 ## Project 1 - Relationship between sentiments in SoMe and the stock market 
 
-**Including**
+### Including
   - Scraping Reddit and Twitter with API's
   - Transforming half a million rows of unstructured data to structured
   - Feature engineering with the use of natural language processing
@@ -29,7 +29,7 @@ Analyzing whether stock movements can be predicted in the short term. We are doi
 
 ## Project 3 - Visualizing business KPI's in Power BI
 
-**Including**
+### Including
 - Creating business rules to make KPI's
 - Using VBA coding to create functions for automation of KPI calculations
 - Creating KPI's for reporting
@@ -43,7 +43,7 @@ Analyzing whether stock movements can be predicted in the short term. We are doi
 
 ## Project 4 - Automating cost allocation of invoices
 
-**Including**
+### Including
 
 
 ### Description
@@ -55,7 +55,7 @@ Analyzing whether stock movements can be predicted in the short term. We are doi
 ## Project 5
 
 
-**Including**
+### Including
 
 
 ### Description
