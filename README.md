@@ -1,3 +1,5 @@
+# School Projects
+
 ## Project 1 - Relationship between sentiments in SoMe and the stock market 
 
 **Including**
@@ -20,5 +22,13 @@ Analyzing whether stock movements can be predicted in the short term. We are doi
 
 
 ## Project 2 - Work in progress...
+
+
+# Work Projects
+
+
+
+
+# Free time Projects
 
 
