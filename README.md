@@ -25,9 +25,10 @@ Analyzing whether stock movements can be predicted in the short term. We are doi
 
 
 
-# Work Projects
+# Student Work Projects
 
-## Project 3 - Visualizing business KPI's in Power BI
+## Project 3 - Creating business KPI's using VBA and Visualizing in Power BI
+*Unfortunately due to GDPR can't show much of the project, including data and visulazations*
 
 ### Including
 - Creating business rules to make KPI's
@@ -37,7 +38,14 @@ Analyzing whether stock movements can be predicted in the short term. We are doi
 - Visualizing the data for reporting using Power BI
 
 ### Description
+Using the knowledge I got of the business and data in my position as a student assistant for the IT-asset manager to clean our existing data on computer hardware in the the organization, consiting of around 20.000 active laptops and 16.000 retired laptops. Create KPI's from the existing data to evaluate what should happen with every individual computer in terms of: Being delivered back to the central unit for redistribution, being retired to the leasing company, being renewed or being disposed. 
 
+The KPI's was created using differnet excel formulars and creating a function in VBA to classify the different computers to the right categories, depending on 8 different factors and giving the reason for the classification in the output.  
+
+I then visualized the added KPI's in Power BI so the different head of finace in the different departments, could get a grip of how many computers to renew each quater and the cost of this. Also make it easy to track the specific computers as the data was connected with the users. 
+Over all leaning the amount of resources used on the IT hardware assets, both in terms of time spend in all departments and the total amount of money, as unused computers easily could be tracked and returned. 
+
+#### Example of VBA code
 
 
 
