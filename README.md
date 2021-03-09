@@ -31,7 +31,7 @@ Analyzing whether stock movements can be predicted in the short term. We are doi
 
 **Including**
 - Creating business rules to make KPI's
-- Using VBA coding to create fucntions for automation of KPI calculations
+- Using VBA coding to create functions for automation of KPI calculations
 - Creating KPI's for reporting
 - Roughly handling and cleaning data sets of 30.000 rows
 - Visualizing the data for reporting using Power BI
