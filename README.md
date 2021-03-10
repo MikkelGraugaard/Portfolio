@@ -13,7 +13,7 @@
     - Logistic regression
 
 ### Description
-In cooperation with 3 other university students.   
+The project is made in cooperation with 3 other university students.   
 Analyzing whether stock movements can be predicted in the short term. We are doing this by collecting data from the platforms Twitter and Reddit. We retrieved data from tweets regarding certain stocks and posts/comments on subreddits involving investing, i.e. "WallStreetBets", "SecurityAnalysis" and "Investing". By using natural language processing to determine the sentiment in relation to the specific stocks, and comparing this to the actual market valuations of these stocks, to predict whether the price goes up or down.
 
 
@@ -46,11 +46,11 @@ The KPI's were created using differnet excel formulars and creating a function i
 I then visualized the added KPI's in Power BI so the different finace departments, could get a grip of how many computers to renew each quater and the cost of this. Also makeing it easy to track the specific computers as the data was connected with the users. 
 Overall leaning the IT-assets as the amount of resources used on the IT hardware assets, both in terms of time spend in all departments and the total amount of money, as unused computers easily could be tracked and returned. 
 
-#### Example of VBA code
+#### VBA Code Example 
 
 
 
-## Project 4 - Automating cost allocation of invoices
+## Project 4 - Automating Cost Allocation of Invoices
 
 ### Including
 
@@ -60,7 +60,7 @@ Overall leaning the IT-assets as the amount of resources used on the IT hardware
 
    
    
-# Free time Projects
+# Free Time Projects
 
 ## Project 5
 
