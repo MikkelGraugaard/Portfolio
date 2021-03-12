@@ -21,7 +21,7 @@ Analyzing whether stock movements can be predicted in the short term. We are doi
 
 
 
-## Project 2 - Showcase of differnet schoolwork code
+## Project 2 - Showcase of different schoolwork code
 
 
    
@@ -49,20 +49,29 @@ Overall leaning the IT-assets as the amount of resources used on the IT hardware
 #### VBA Code Example 
 
 
-[Link to a VBA used](https://github.com/MikkelGraugaard/Mock_Work_project_KPI_creation)
+[Link to VBA used](https://github.com/MikkelGraugaard/Mock_Work_project_KPI_creation)
 
 
 ## Project 4 - Automating Cost Allocation of Invoices
 *Unfortunately due to GDPR I can't show the actual project data*
 
 ### Including
-
+- Analyzing the invoices to find pattern in data
+- Creating a VBA macro
+  - Using loops
+  - Finding specified text in invoice
+  - Copying the invoice amount if containing specified text
+  - Decompising the invoice into categories to be invoiced to other departments
 
 ### Description
+Every month we recieve an huge invoice, apporximately 90 pages. The invoice has to be allocated to all the different departments in the municipality. This means that a person has to read the invoice line for line and cpoying the right data/costs to an allocation excel sheet. 
+This takes approximately 6-9 work hours per month for an individual. 
 
-
-[Link to a VBA used](https://github.com/MikkelGraugaard/Mock_Work_project_Invoive_Automation) 
-   
+I made a VBA macro that finds the categories in the invoice and copies the data/costs to specified coloumns in excel and cross checking if the total matches. This reduces the task of allocating the invoice to approximately 10-15 minutes, thus saving a lot of recoursces in a year.  
+[Link to VBA used](https://github.com/MikkelGraugaard/Mock_Work_project_Invoive_Automation) 
+    
+     
+     
 # Free Time Projects
 
 ## Project 5 - visulazation in Power BI
