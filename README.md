@@ -49,7 +49,7 @@ Overall leaning the IT-assets as the amount of resources used on the IT hardware
 #### VBA Code Example 
 
 
-[Link to a mock project](https://github.com/MikkelGraugaard/Work_project_simulation)
+[Link to a mock project](https://github.com/MikkelGraugaard/Mock_Work_project_KPI_creation)
 
 
 ## Project 4 - Automating Cost Allocation of Invoices
