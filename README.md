@@ -24,7 +24,8 @@ Analyzing whether stock movements can be predicted in the short term. We are doi
 ## Project 2 - Showcase of different schoolwork code
 
 
-   
+[Link to code](https://github.com/MikkelGraugaard/School_misc)
+
    
 # Student Work Projects
 
