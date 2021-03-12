@@ -48,7 +48,6 @@ Overall leaning the IT-assets as the amount of resources used on the IT hardware
 
 #### VBA Code Example 
 
-
 [Link to VBA used](https://github.com/MikkelGraugaard/Mock_Work_project_KPI_creation)
 
 
@@ -68,6 +67,9 @@ Every month we recieve an huge invoice, apporximately 90 pages. The invoice has 
 This takes approximately 6-9 work hours per month for an individual. 
 
 I made a VBA macro that finds the categories in the invoice and copies the data/costs to specified coloumns in excel and cross checking if the total matches. This reduces the task of allocating the invoice to approximately 10-15 minutes, thus saving a lot of recoursces in a year.  
+
+#### VBA Code Example 
+
 [Link to VBA used](https://github.com/MikkelGraugaard/Mock_Work_project_Invoive_Automation) 
     
      
