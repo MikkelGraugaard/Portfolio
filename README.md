@@ -21,7 +21,7 @@ Analyzing whether stock movements can be predicted in the short term. We are doi
 
 
 
-## Project 2 - Work in progress...
+## Project 2 - Showcase of differnet schoolwork code
 
 
    
@@ -49,8 +49,11 @@ Overall leaning the IT-assets as the amount of resources used on the IT hardware
 #### VBA Code Example 
 
 
+[Link to a mock project](https://github.com/MikkelGraugaard/Work_project_simulation)
+
 
 ## Project 4 - Automating Cost Allocation of Invoices
+*Unfortunately due to GDPR I can't show the actual project data*
 
 ### Including
 
@@ -62,7 +65,7 @@ Overall leaning the IT-assets as the amount of resources used on the IT hardware
    
 # Free Time Projects
 
-## Project 5
+## Project 5 - visulazation in Power BI
 
 
 ### Including
