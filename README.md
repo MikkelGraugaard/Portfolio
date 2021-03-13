@@ -21,15 +21,9 @@ Analyzing whether stock movements can be predicted in the short term. We are doi
 
 
 
-## Project 2 - Showcase of different schoolwork code
-
-
-[Link to code](https://github.com/MikkelGraugaard/School_misc)
-
-   
 # Student Work Projects
 
-## Project 3 - Creating business KPI's using VBA and Visualization in Power BI
+## Project 2 - Creating business KPI's using VBA and Visualization in Power BI
 *Unfortunately due to GDPR I can't show much of the project, this includes the data and report/visulazations*
 
 ### Including
@@ -52,7 +46,7 @@ Overall leaning the IT-assets as the amount of resources used on the IT hardware
 [Link to VBA used](https://github.com/MikkelGraugaard/Mock_Work_project_KPI_creation)
 
 
-## Project 4 - Automating Cost Allocation of Invoices
+## Project 3 - Automating Cost Allocation of Invoices
 *Unfortunately due to GDPR I can't show the actual project data*
 
 ### Including
@@ -73,14 +67,4 @@ I made a VBA macro that finds the categories in the invoice and copies the data/
 
 [Link to VBA used](https://github.com/MikkelGraugaard/Mock_Work_project_Invoive_Automation) 
     
-     
-     
-# Free Time Projects
 
-## Project 5 - visulazation in Power BI
-
-
-### Including
-
-
-### Description
