@@ -20,10 +20,29 @@ Analyzing whether stock movements can be predicted in the short term. We are doi
 [Link to the project](https://github.com/DataScienceProjectUni/PredictStockusingRedditandTwitter) 
 
 
+## Project 2 - Exam from first semester of Machine Learning
+
+### Including
+  - Transforming variables
+  - Exploring the data, distributions etc.
+  - Feature engineering of variables
+  - Classifying fraud using:
+    - Linear regression
+    - Logistic regression
+      - AIC step models
+    - LDA and QDA
+    - Bayesian model averaging
+    - Bayes naive classifier
+
+### Description
+This is my exam from Machine Learning 1 at my first semester of my masters. The exam was a 4-hour exam, where we got a data set and a set of questions to answer.
+The exam main objective was fraud detection of suspicious firms. The data was a cross-section of 1550 observations containing 12 variables and was collected over a 1 year period. The data contained both Ordinal, continuous and binary data.  
+
+[Link to the project]() 
 
 # Student Work Projects
 
-## Project 2 - Creating business KPI's using VBA and Visualization in Power BI
+## Project 3 - Creating business KPI's using VBA and Visualization in Power BI
 *Unfortunately due to GDPR I can't show much of the project, this includes the data and report/visualizations*
 
 ### Including
@@ -46,7 +65,7 @@ Overall leaning the IT-assets as the amount of resources used on the IT hardware
 [Link to VBA used](https://github.com/MikkelGraugaard/Mock_Work_project_KPI_creation)
 
 
-## Project 3 - Automating Cost Allocation of Invoices
+## Project 4 - Automating Cost Allocation of Invoices
 *Unfortunately due to GDPR I can't show the actual project data*
 
 ### Including
