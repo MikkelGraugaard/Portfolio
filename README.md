@@ -20,7 +20,7 @@ Analyzing whether stock movements can be predicted in the short term. We are doi
 [Link to the project](https://github.com/DataScienceProjectUni/PredictStockusingRedditandTwitter) 
 
 
-## Project 2 - Exam from first semester of Machine Learning
+## Project 2 - Exam from first semester of Machine Learning (Grade: A)
 
 ### Including
   - Transforming variables
