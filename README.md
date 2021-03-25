@@ -3,9 +3,9 @@
 ## Project 1 - Relationship between sentiments in SoMe and the stock market 
 
 ### Including
-  - Scraping Reddit and Twitter with API's
-  - Transforming half a million rows of unstructured data to structured
-  - Feature engineering with the use of natural language processing
+  - Scraping Reddit and [Twitter](https://github.com/DataScienceProjectUni/PredictStockusingRedditandTwitter/blob/main/DataCollection/Tools/Twitter_Webscraper.R) with API's
+  - Transforming half a million rows of unstructured text data to structured
+  - Feature engineering with the use of [natural language processing](https://github.com/DataScienceProjectUni/PredictStockusingRedditandTwitter/blob/main/SentimentAnalysis/Sentiment_Per_GMEcomment.R) <- (Code)  
   - Classifying stock movements using, but not limited to:
     - Random Forest
     - Extreme gradient boosting
@@ -14,7 +14,7 @@
 
 ### Description
 The project is made in cooperation with 3 other university students.   
-Analyzing whether stock movements can be predicted in the short term. We are doing this by collecting data from the platforms Twitter and Reddit. We retrieved data from tweets regarding certain stocks and posts/comments on subreddits involving investing, i.e. "WallStreetBets", "SecurityAnalysis" and "Investing". By using natural language processing to determine the sentiment in relation to the specific stocks, and comparing this to the actual market valuations of these stocks, to predict whether the price goes up or down.
+Analyzing whether stock movements can be predicted in the short term. We are doing this by collecting data from the platforms Twitter and Reddit. We retrieved data from tweets regarding certain stocks and posts/comments on subreddits involving investing, i.e. "WallStreetBets", "SecurityAnalysis" and "Investing". By using natural language processing to determine the sentiment in relation to the specific stocks, and comparing this to the actual market valuations of these stocks, to predict whether the price goes up or down. Predicting for stock movements in the hours after the posts have been posted. 
 
 
 [Link to the project](https://github.com/DataScienceProjectUni/PredictStockusingRedditandTwitter) 
@@ -60,8 +60,6 @@ The KPI's were created using different excel formulars and creating a function i
 I then visualized the added KPI's in Power BI so the different finance departments, could get a grip of how many computers to renew each quarter and the cost of this. Also making it easy to track the specific computers as the data was connected with the users. 
 Overall leaning the IT-assets as the amount of resources used on the IT hardware assets, both in terms of time spend in all departments and the total amount of money, as unused computers easily could be tracked and returned. 
 
-#### VBA Code Example 
-
 [Link to VBA used](https://github.com/MikkelGraugaard/Mock_Work_project_KPI_creation)
 
 
@@ -81,8 +79,6 @@ Every month we receive a huge invoice, approximately 90 pages. The invoice has t
 This takes approximately 6-9 work hours per month for an individual. 
 
 I made a VBA macro that finds the categories in the invoice and copies the data/costs to specified columns in excel and cross checking if the total matches. This reduces the task of allocating the invoice to approximately 10-15 minutes, thus saving a lot of recourses per year.  
-
-#### VBA Code Example 
 
 [Link to VBA used](https://github.com/MikkelGraugaard/Mock_Work_project_Invoive_Automation) 
     
