@@ -62,6 +62,7 @@ I then visualized the added KPI's in Power BI so the different finance departmen
 Overall leaning the IT-assets as the amount of resources used on the IT hardware assets, both in terms of time spend in all departments and the total amount of money, as unused computers easily could be tracked and returned. 
 
 [Link to VBA used](https://github.com/MikkelGraugaard/Mock_Work_project_KPI_creation)
+[Link to example of DAX code used](https://github.com/MikkelGraugaard/DAX)
 
 
 ## Project 4 - Automating Cost Allocation of Invoices
