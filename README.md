@@ -61,7 +61,7 @@ The KPI's were created using different excel formulars and creating a function i
 I then visualized the added KPI's in Power BI so the different finance departments, could get a grip of how many computers to renew each quarter and the cost of this. Also making it easy to track the specific computers as the data was connected with the users. 
 Overall leaning the IT-assets as the amount of resources used on the IT hardware assets, both in terms of time spend in all departments and the total amount of money, as unused computers easily could be tracked and returned. 
 
-[Link to VBA used](https://github.com/MikkelGraugaard/Mock_Work_project_KPI_creation)
+[Link to VBA used](https://github.com/MikkelGraugaard/Mock_Work_project_KPI_creation)  
 [Link to example of DAX code used](https://github.com/MikkelGraugaard/DAX)
 
 
