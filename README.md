@@ -6,8 +6,8 @@
   - Scraping Reddit and [Twitter](https://github.com/DataScienceProjectUni/PredictStockusingRedditandTwitter/blob/main/DataCollection/Tools/Twitter_Webscraper.R) with API's
   - Transforming half a million rows of unstructured text data to structured
     - Making the Twitter and Reddit data compatible and [appending the data](https://github.com/DataScienceProjectUni/PredictStockusingRedditandTwitter/blob/main/DataCleaning/Tools/Appending_Prep_Twitter.R)
-  - Feature engineering with the use of [natural language processing](https://github.com/DataScienceProjectUni/PredictStockusingRedditandTwitter/blob/main/SentimentAnalysis/Sentiment_Per_GMEcomment.R) <- (Code)  
-  - Classifying stock movements using, but not limited to:
+  - Feature engineering with the use of [natural language processing](https://github.com/DataScienceProjectUni/PredictStockusingRedditandTwitter/blob/main/PreProcessedData/PreProcessingScript.R) <- (Code)  
+  - [Classifying stock movements](https://github.com/DataScienceProjectUni/PredictStockusingRedditandTwitter/blob/main/DataModelling/Modelling.R) using, but not limited to:
     - Random Forest
     - Extreme gradient boosting
     - Support vector machines
