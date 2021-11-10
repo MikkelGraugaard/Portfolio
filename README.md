@@ -65,10 +65,10 @@ Responsible for frontend of the product in Power BI and calculating business mea
     - Pandas
     - Numpy
     - OpenCV
-  - Tensorflow
-  - PyTorch
-  - Scikit-learn
-  - Keras
+    - Tensorflow
+    - PyTorch
+    - Scikit-learn
+     - Keras
 
 ### Description
 Creating the backend data warehousein SQL, frontend in Power BI and Computer Vision with Python
