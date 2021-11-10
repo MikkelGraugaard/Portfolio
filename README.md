@@ -45,11 +45,33 @@ The exam main objective was fraud detection of suspicious firms. The data was a 
 # Internship Projects
 
 ## Project 1 - Vessel Performance Analytics
-### Responsible for frontend of the product in Power BI and calculating business measures with DAX
+
+### Including
+ - Power BI
+ - SQL
+ - SQL SSAS (DAX)
+
+### Description
+Responsible for frontend of the product in Power BI and calculating business measures with DAX.
 
 
 ## Project 2 - Handball Analytics
-### Creating the backend data warehousein SQL, frontend in Power BI and Computer Vision with Python
+
+### Including
+ - SQL
+ - SQL SSAS (DAX)
+ - Power BI
+ - Python
+  - Pandas
+  - Numpy
+  - OpenCV
+  - Tensorflow
+  - PyTorch
+  - Scikit-learn
+  - Keras
+
+### Description
+Creating the backend data warehousein SQL, frontend in Power BI and Computer Vision with Python
 
 
 # Student Work Projects
