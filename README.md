@@ -41,6 +41,9 @@ The exam main objective was fraud detection of suspicious firms. The data was a 
 
 [Link to the project](https://github.com/MikkelGraugaard/Machine_Learning1_Exam) 
 
+
+# Internship Projects
+
 # Student Work Projects
 
 ## Project 3 - Creating business KPI's using VBA and Visualization in Power BI
