@@ -62,9 +62,9 @@ Responsible for frontend of the product in Power BI and calculating business mea
  - SQL SSAS (DAX)
  - Power BI
  - Python
-  - Pandas
-  - Numpy
-  - OpenCV
+    - Pandas
+    - Numpy
+    - OpenCV
   - Tensorflow
   - PyTorch
   - Scikit-learn
