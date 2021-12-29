@@ -71,7 +71,7 @@ Responsible for frontend of the product in Power BI and calculating business mea
      - Keras
 
 ### Description
-Creating the backend data warehousein SQL, frontend in Power BI and Computer Vision with Python
+Creating the backend data warehouse in SQL, frontend in Power BI, as well as Computer Vision with Python and API requesting and data manipulation with Python.
 
 
 # Student Work Projects
